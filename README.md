@@ -1,9 +1,6 @@
 # Invicutus_assignment
 
-How to run:
-1.	 Open file top-n-words->src->App.js.
-2.	 Run npm install axios.
-3.	 Run npm start in terminal.
+Note: code file name "App.js"
 
 Components:
 1.Varibles used:
@@ -27,13 +24,17 @@ Libraries Used:
 
 Test Cases:
 1.	When no number is submitted:
+  <pic1>
  
 Output:
+  <pic2>
  
 2.when a number >=0 or <=max limit submitted:
+ <pic3> 
  
 
 3.when a number >max limit entered(All values will be shown with a warning)
+  <pic4>
  
 
 
