@@ -1,6 +1,7 @@
 # Invicutus_assignment
 
-Note: code file name "App.js"
+Note: code file name "App.js".
+      test case output images are in "test_images" folder
 
 Components:
 1.Varibles used:
@@ -24,17 +25,17 @@ Libraries Used:
 
 Test Cases:
 1.	When no number is submitted:
-  <pic1>
+  pic1
  
 Output:
-  <pic2>
+  pic2
  
 2.when a number >=0 or <=max limit submitted:
- <pic3> 
+ pic3 
  
 
 3.when a number >max limit entered(All values will be shown with a warning)
-  <pic4>
+  pic4
  
 
 
