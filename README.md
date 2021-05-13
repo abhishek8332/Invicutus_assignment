@@ -3,6 +3,8 @@
 Note: code file name "App.js".
       test case output images are in "test_images" folder
 
+Hosted on heroku: To view visit link https://get-top-words.herokuapp.com/
+
 Components:
 1.Varibles used:
   o	n(number taken from user)
